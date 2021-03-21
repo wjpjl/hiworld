@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fa3a172-e445-4898-8a6b-1e0703e0a41e" name="Default" comment="test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiword/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiword/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiword/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiword/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiword/hiword.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiword/src/hiworld.java" />
+    <list default="true" id="0fa3a172-e445-4898-8a6b-1e0703e0a41e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hiword/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../hiword/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../hiword/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hiworld.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hiworld.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../hiword/src/hiworld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
@@ -28,6 +23,16 @@
                 <element signature="e#134#135#0" expanded="true" />
                 <element signature="e#180#181#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hiword.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../hiword/hiword.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -244,12 +249,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616311718915</updated>
-      <workItem from="1616311722560" duration="203000" />
+      <workItem from="1616311722560" duration="542000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1616311971773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616311971773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203000" />
+    <option name="totallyTimeSpent" value="542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -307,6 +320,14 @@
             <element signature="e#134#135#0" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hiword/hiword.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
